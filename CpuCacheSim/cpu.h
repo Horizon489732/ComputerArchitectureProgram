@@ -3,6 +3,8 @@
 
 #include <vector>
 #include "cache.h"
+#include <string>
+
 
 class CPU
 {
